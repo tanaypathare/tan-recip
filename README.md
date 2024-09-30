@@ -1,4 +1,4 @@
 # tan-recip
 
-# This is the README file for the given assign that I am working on
+# figuring out how tf to use html and Git don't judge me
 
